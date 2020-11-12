@@ -20,7 +20,7 @@ url: 'https://joe-me.github.io'
 
 author: Xinyu(Joseph) Zhang                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/Profile.jpeg   # support internet resources
 
 github:
   username: joe-me             # change to your github username
@@ -46,10 +46,10 @@ social:
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+baseurl: '/joe-me.github.io'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/New_York
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
