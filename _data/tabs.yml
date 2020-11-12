@@ -5,14 +5,14 @@
 #  MIT Licensed
 
 
+-
+  name: Home
+  icon: "fas fa-home"
 # -
-#   name: Home
-#   icon: "fas fa-home"
-# -
-  name: Categories
-  icon: "fas fa-stream"
-  path: tabs
-  url: categories
+#   name: Categories
+#   icon: "fas fa-stream"
+#   path: tabs
+#   url: categories
 # -
 #   name: "Tags"
 #   icon: "fas fa-tags"
